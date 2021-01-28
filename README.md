@@ -12,11 +12,8 @@ using SimMenu.Plugin;
 ```
 - Fetch SimMenu plugin and bind events (typically done in "Init" method)
 ```C#
-public void Init(PluginManager pluginManager)
-{
-    SimMenuPlugin simMenu = pluginManager.GetPlugin<SimMenuPlugin>();
-    simMenu.Initialised += SimMenu_Initialised;
-}
+SimMenuPlugin simMenu = pluginManager.GetPlugin<SimMenuPlugin>();
+simMenu.Initialised += SimMenu_Initialised;
 ```
 - Add your plugin's options to the settings menu
 ```C#
