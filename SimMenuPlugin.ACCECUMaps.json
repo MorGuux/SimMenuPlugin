@@ -1,0 +1,1248 @@
+[
+  {
+    "ID": 0,
+    "SimHubName": "amr_v12_vantage_gt3",
+    "Manufacturer": "Aston Martin",
+    "Model": "V12 Vantage GT3",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Slower Mid Fuel Aggressive",
+        "MapType": 3,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Slower Mid Fuel Progressive",
+        "MapType": 3,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Slow Low Fuel Progressive",
+        "MapType": 2,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Wet Mid Fuel Slight Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Wet Low Fuel Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Wet Low Fuel More Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 1,
+    "SimHubName": "amr_v8_vantage_gt3",
+    "Manufacturer": "Aston Martin",
+    "Model": "V8 Vantage GT3 (EVO)",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Slower Mid Fuel Aggressive",
+        "MapType": 3,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Slower Mid Fuel Progressive",
+        "MapType": 3,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Slow Low Fuel Progressive",
+        "MapType": 2,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Wet Mid Fuel Slight Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Wet Low Fuel Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Wet Low Fuel More Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 2,
+    "SimHubName": "nissan_gt_r_gt3_2017",
+    "Manufacturer": "Nissan",
+    "Model": "GT-R Nismo GT3 2017",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel Linear",
+        "MapType": 5,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Faster Mid Fuel Linear",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Fast Lower Fuel Linear",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 1
+      }
+    ]
+  },
+  {
+    "ID": 3,
+    "SimHubName": "porsche_991ii_gt3_cup",
+    "Manufacturer": "Porsche",
+    "Model": "991II GT3 Cup"
+  },
+  {
+    "ID": 4,
+    "SimHubName": "bentley_continental_gt3_2016",
+    "Manufacturer": "Bentley",
+    "Model": "Continental GT3 2016",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Slower Mid Fuel Aggressive",
+        "MapType": 3,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Slower Mid Fuel Progressive",
+        "MapType": 3,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Slow Low Fuel Progressive",
+        "MapType": 2,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Wet Mid Fuel Slight Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Wet Low Fuel Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Wet Low Fuel More Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 5,
+    "SimHubName": "bentley_continental_gt3_2018",
+    "Manufacturer": "Bentley",
+    "Model": "Continental GT3 2018",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Slower Mid Fuel Aggressive",
+        "MapType": 3,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Slower Mid Fuel Progressive",
+        "MapType": 3,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Slow Low Fuel Progressive",
+        "MapType": 2,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Wet Mid Fuel Slight Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Wet Low Fuel Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Wet Low Fuel More Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 6,
+    "SimHubName": "bmw_m6_gt3",
+    "Manufacturer": "BMW",
+    "Model": "M6 GT3",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel Aggressive",
+        "MapType": 5,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Slower Mid Fuel Linear",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Slower Mid Fuel Gradual",
+        "MapType": 4,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Reserve Engineers Map",
+        "MapType": 0,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Fast Wet High Fuel",
+        "MapType": 1,
+        "ThrottleMap": 3
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Slower Wet Mid Fuel Map 1",
+        "MapType": 1,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Slower Wet Mid Fuel Map 2",
+        "MapType": 1,
+        "ThrottleMap": 2
+      }
+    ]
+  },
+  {
+    "ID": 7,
+    "SimHubName": "nissan_gt_r_gt3_2018",
+    "Manufacturer": "Nissan",
+    "Model": "GT-R Nismo GT3 2018",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel Linear",
+        "MapType": 5,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Faster Mid Fuel Linear",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Fast Lower Fuel Linear",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 1
+      }
+    ]
+  },
+  {
+    "ID": 8,
+    "SimHubName": "mclaren_650s_gt3",
+    "Manufacturer": "McLaren",
+    "Model": "650S GT3",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest Mid Fuel",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Faster Lower Fuel",
+        "MapType": 3,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Fast Mid Fuel",
+        "MapType": 3,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Slow Low Fuel",
+        "MapType": 2,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Fastest Wet Mid Fuel",
+        "MapType": 1,
+        "ThrottleMap": 3
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Faster Wet Lower Fuel",
+        "MapType": 1,
+        "ThrottleMap": 3
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Fast Wet Mid Fuel",
+        "MapType": 1,
+        "ThrottleMap": 3
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Slow Wet Low Fuel",
+        "MapType": 1,
+        "ThrottleMap": 3
+      },
+      {
+        "ID": 9,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 9,
+    "SimHubName": "mclaren_720s_gt3",
+    "Manufacturer": "McLaren",
+    "Model": "720S GT3",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Qualy High Fuel Aggressive",
+        "MapType": 5,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Race 1 Mid Fuel Linear",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Race 2 Low Fuel Progressive",
+        "MapType": 3,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Race 1 Fuel Save",
+        "MapType": 0,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Race 2 Fuel Save",
+        "MapType": 0,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Race 3 Fuel Save",
+        "MapType": 0,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "High Temp Cool Off",
+        "MapType": 0,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Damp Qualy High Fuel Progressive",
+        "MapType": 2,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 9,
+        "ShortDescription": "Damp Race Fuel Save",
+        "MapType": 0,
+        "ThrottleMap": 4
+      },
+      {
+        "ID": 10,
+        "ShortDescription": "Wet Qualy High Fuel",
+        "MapType": 5,
+        "ThrottleMap": 3
+      },
+      {
+        "ID": 11,
+        "ShortDescription": "Wet Race 1 Mid Fuel",
+        "MapType": 3,
+        "ThrottleMap": 3
+      },
+      {
+        "ID": 12,
+        "ShortDescription": "Wet Race 2 Low Fuel",
+        "MapType": 2,
+        "ThrottleMap": 3
+      }
+    ]
+  },
+  {
+    "ID": 10,
+    "SimHubName": "lamborghini_huracan_gt3",
+    "Manufacturer": "Lamborghini",
+    "Model": "Huracan GT3",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Slower Mid Fuel Map 1",
+        "MapType": 3,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Slower Mid Fuel Map 2",
+        "MapType": 3,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Slow Low Fuel",
+        "MapType": 2,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Wet Mid Fuel",
+        "MapType": 1,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Wet Low Fuel Map 1",
+        "MapType": 1,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Wet Low Fuel Map 2",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 11,
+    "SimHubName": "lamborghini_huracan_gt3_evo",
+    "Manufacturer": "Lamborghini",
+    "Model": "Huracan GT3 EVO",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Slower Mid Fuel Map 1",
+        "MapType": 3,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Slower Mid Fuel Map 2",
+        "MapType": 3,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Slow Low Fuel",
+        "MapType": 2,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Wet Mid Fuel",
+        "MapType": 1,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Wet Low Fuel Map 1",
+        "MapType": 1,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Wet Low Fuel Map 2",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 12,
+    "SimHubName": "audi_r8_lms",
+    "Manufacturer": "Audi",
+    "Model": "R8 LMS",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Slower Mid Fuel Map 1",
+        "MapType": 3,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Slower Mid Fuel Map 2",
+        "MapType": 3,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Slow Low Fuel",
+        "MapType": 2,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Wet Mid Fuel Slight Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Wet Low Fuel Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Wet Low Fuel More Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 13,
+    "SimHubName": "audi_r8_lms_evo",
+    "Manufacturer": "Audi",
+    "Model": "R8 LMS EVO",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Slower Mid Fuel Map 1",
+        "MapType": 3,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Slower Mid Fuel Map 2",
+        "MapType": 3,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Slow Low Fuel",
+        "MapType": 2,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Wet Mid Fuel Slight Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Wet Low Fuel Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Wet Low Fuel More Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 14,
+    "SimHubName": "ferrari_488_gt3",
+    "Manufacturer": "Ferrari",
+    "Model": "488 GT3",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest Mid Fuel",
+        "MapType": 5,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Fast Lower Fuel",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Slower Mid Fuel",
+        "MapType": 3,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Slowest Low Fuel",
+        "MapType": 2,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Wet Mid Fuel Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Slower Wet Low Fuel Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Slower Wet Mid Fuel Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Slowest Wet Low Fuel Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 9,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      },
+      {
+        "ID": 10,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      },
+      {
+        "ID": 11,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      },
+      {
+        "ID": 12,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 15,
+    "SimHubName": "mercedes_amg_gt3",
+    "Manufacturer": "Mercedes",
+    "Model": "AMG GT3",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel Linear",
+        "MapType": 5,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Fast Mid Fuel Linear",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Slow Low Fuel Linear",
+        "MapType": 2,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 16,
+    "SimHubName": "porsche_991_gt3_r",
+    "Manufacturer": "Porsche",
+    "Model": "991 GT3 R",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fast Mid Fuel Slightly Progressive",
+        "MapType": 4,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Fast Mid Fuel Progressive",
+        "MapType": 4,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Fast Mid Fuel Aggressive",
+        "MapType": 4,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Fast Mid Fuel Linear",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Qualy High Fuel Slightly Progressive",
+        "MapType": 5,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Qualy High Fuel Progressive",
+        "MapType": 5,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Qualy High Fuel Aggressive",
+        "MapType": 5,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Qualy High Fuel Linear",
+        "MapType": 5,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 9,
+        "ShortDescription": "Slow Low Fuel Progressive",
+        "MapType": 2,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 10,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 17,
+    "SimHubName": "porsche_991ii_gt3_r",
+    "Manufacturer": "Porsche",
+    "Model": "991II GT3 R EVO",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fast Mid Fuel Slightly Progressive",
+        "MapType": 4,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Fast Mid Fuel Progressive",
+        "MapType": 4,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Fast Mid Fuel Aggressive",
+        "MapType": 4,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Fast Mid Fuel Linear",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Qualy High Fuel Slightly Progressive",
+        "MapType": 5,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Qualy High Fuel Progressive",
+        "MapType": 5,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Qualy High Fuel Aggressive",
+        "MapType": 5,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Qualy High Fuel Linear",
+        "MapType": 5,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 9,
+        "ShortDescription": "Slow Low Fuel Progressive",
+        "MapType": 2,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 10,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 18,
+    "SimHubName": "lamborghini_huracan_st",
+    "Manufacturer": "Lamborghini",
+    "Model": "Huracan ST",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Slower Mid Fuel Map 1",
+        "MapType": 3,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Slower Mid Fuel Map 2",
+        "MapType": 3,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Slow Low Fuel",
+        "MapType": 2,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Wet Mid Fuel",
+        "MapType": 1,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Wet Low Fuel Map 1",
+        "MapType": 1,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Wet Low Fuel Map 2",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 19,
+    "SimHubName": "honda_nsx_gt3",
+    "Manufacturer": "Honda",
+    "Model": "NSX GT3",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest Progressive",
+        "MapType": 4,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Fastest Linear",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Fastest Slight Aggressive",
+        "MapType": 4,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Fastest Aggressive",
+        "MapType": 4,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Fastest Wet Slight Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Fastest Wet Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Slow Wet Low Fuel Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 20,
+    "SimHubName": "honda_nsx_gt3_evo",
+    "Manufacturer": "Honda",
+    "Model": "NSX GT3 EVO",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest Progressive",
+        "MapType": 4,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Fastest Linear",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Fastest Slight Aggressive",
+        "MapType": 4,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Fastest Aggressive",
+        "MapType": 4,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Fastest Wet Slight Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Fastest Wet Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 7,
+        "ShortDescription": "Slow Wet Low Fuel Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 8,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 21,
+    "SimHubName": "lexus_rc_f_gt3",
+    "Manufacturer": "Lexus",
+    "Model": "RC F GT3",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel Linear",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Fastest High Fuel Aggressive",
+        "MapType": 4,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Fastest High Fuel Progressive",
+        "MapType": 4,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Slow Wet Low Fuel",
+        "MapType": 1,
+        "ThrottleMap": 3
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Fuel Saving",
+        "MapType": 0,
+        "ThrottleMap": 4
+      }
+    ]
+  },
+  {
+    "ID": 22,
+    "SimHubName": "jaguar_g3",
+    "Manufacturer": "Emil Frey Jaguar",
+    "Model": "G3",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel Linear",
+        "MapType": 5,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Fast Mid Fuel Linear",
+        "MapType": 4,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Slow Low Fuel Linear",
+        "MapType": 2,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Fastest Wet High Fuel Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 5,
+        "ShortDescription": "Fast Wet Mid Fuel Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 6,
+        "ShortDescription": "Slow Wet Low Fuel Progressive",
+        "MapType": 1,
+        "ThrottleMap": 2
+      }
+    ]
+  },
+  {
+    "ID": 23,
+    "SimHubName": "lamborghini_gallardo_rex",
+    "Manufacturer": "Reiter Engineering",
+    "Model": "R-EX GT3",
+    "Maps": [
+      {
+        "ID": 1,
+        "ShortDescription": "Fastest High Fuel",
+        "MapType": 5,
+        "ThrottleMap": 1
+      },
+      {
+        "ID": 2,
+        "ShortDescription": "Fast Mid Fuel Aggressive",
+        "MapType": 4,
+        "ThrottleMap": 0
+      },
+      {
+        "ID": 3,
+        "ShortDescription": "Fast Mid Fuel Progressive",
+        "MapType": 4,
+        "ThrottleMap": 2
+      },
+      {
+        "ID": 4,
+        "ShortDescription": "Slowest Low Fuel Progressive",
+        "MapType": 2,
+        "ThrottleMap": 2
+      }
+    ]
+  }
+]
