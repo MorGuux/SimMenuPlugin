@@ -17,19 +17,22 @@ simMenu.Initialised += SimMenu_Initialised;
 ```
 - Add your plugin's options to the settings menu
 ```C#
-simMenu.AddSettingsOption(new SettingsOption
+private void SimMenu_Initialised()
 {
-    Title = "YOUR PLUGIN NAME",
-    Description = "Configure the 'YOUR PLUGIN NAME' plugin settings",
-    SubOptions = new ObservableCollection<SettingsOption>
-    {
-        new SettingsOption
-        { 
-          Title = "Setting 1", 
-          Description = "Description of Setting 1", 
-          IncrementAction="YOUR PLUGIN NAME.Setting1Increment", 
-          DecrementAction="YOUR PLUGIN NAME.Setting1Decrement", 
-          ValueProperty="YOUR PLUGIN NAME.Setting1" }
-        }
-    });
+	simMenu.AddSettingsOption(new SettingsOption
+	{
+		Title = "YOUR PLUGIN NAME",
+		Description = "Configure the 'YOUR PLUGIN NAME' plugin settings",
+		SubOptions = new ObservableCollection<SettingsOption>
+		{
+			new SettingsOption
+			{ 
+				Title = "Setting 1", 
+				Description = "Description of Setting 1", 
+				IncrementAction="YOUR PLUGIN NAME.Setting1Increment", 
+				DecrementAction="YOUR PLUGIN NAME.Setting1Decrement", 
+				ValueProperty="YOUR PLUGIN NAME.Setting1" }
+			}
+		});
+}
 ```
