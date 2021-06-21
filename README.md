@@ -31,8 +31,9 @@ private void SimMenu_Initialised()
 				Description = "Description of Setting 1", 
 				IncrementAction="YOUR PLUGIN NAME.Setting1Increment", 
 				DecrementAction="YOUR PLUGIN NAME.Setting1Decrement", 
-				ValueProperty="YOUR PLUGIN NAME.Setting1" }
+				ValueProperty="YOUR PLUGIN NAME.Setting1"
 			}
-		});
+		}
+	});
 }
 ```
